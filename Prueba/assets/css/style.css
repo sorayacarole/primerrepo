@@ -1,0 +1,30 @@
+.hero{
+    background-image: url('../img/IMG-20170611-WA0011.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h5, h1{
+    color:black;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}
+
+nav{
+    background-color: black;
+    color:blanchedalmond;
+}
+
+footer{
+background: #1e1a13;
+color:#ffffff;
+padding: 3.125rem;
+text-decoration: none;
+text-align: left;
+display: flex;
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+}
+
+header{
+    background-color: chartreuse;
+}
