@@ -1,0 +1,1 @@
+alert("esta prueba es desde le archivo script.js")
